@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OPERR-Android_Quizz-RColon</string>
+    <string name="prod_env">Production</string>
+    <string name="qa_env">QA</string>
+    <string name="env_debug">Debug</string>
+    <string name="env_release">Release</string>
+    <string name="break_is_up">Your break is up!</string>
+</resources>
